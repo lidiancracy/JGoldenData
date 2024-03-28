@@ -1,2 +1,3 @@
 # JGoldenData
-JGoldenData数据集
+此项目包含高质量的Java数据集JGoldenData数据集
+用户可以根据表格中提供的url批量下载数据集
